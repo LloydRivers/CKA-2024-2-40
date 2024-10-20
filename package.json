@@ -1,0 +1,15 @@
+{
+  "name": "cka-2024-2-40",
+  "version": "1.0.0",
+  "description": "Code solution for task 2 of the 40 days of Kubernetes course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
